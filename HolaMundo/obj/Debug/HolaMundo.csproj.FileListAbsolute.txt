@@ -1,0 +1,7 @@
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\prune\VisualStudioMSSA\CH1\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
