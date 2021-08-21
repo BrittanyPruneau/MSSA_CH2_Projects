@@ -1,0 +1,7 @@
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\obj\Debug\HelloWorld2.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\prune\VisualStudioMSSA\CH1\HelloWorld2\obj\Debug\HelloWorld2.pdb
